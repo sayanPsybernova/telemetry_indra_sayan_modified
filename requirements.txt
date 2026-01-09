@@ -1,0 +1,5 @@
+pandas
+plotly
+tqdm
+sentence-transformers
+torch

@@ -1,0 +1,33 @@
+# User-specific configuration (do not commit)
+user_config.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output files
+output/
+*.csv
+*.json
+!requirements.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
+env/
+
+# Windows reserved names
+nul
